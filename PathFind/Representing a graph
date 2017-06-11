@@ -1,0 +1,3 @@
+Graphs are represented by dictionaries in our example.
+ In directed graphs, the connections between nodes have a direction, and are called arcs; 
+ In undirected graphs, the connections have no direction and are called edges. We mainly discuss directed graphs.
